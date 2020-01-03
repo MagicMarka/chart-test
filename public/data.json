@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2019-12-01",
+    "metrics": {
+      "deliver": 148354,
+      "answers": 1178,
+      "traffic": 290089,
+      "send": 148539,
+      "clicks": 121076,
+      "opens": 147490
+    }
+  },
+  {
+    "date": "2019-12-02",
+    "metrics": {
+      "deliver": 163890,
+      "answers": 1356,
+      "traffic": 276314,
+      "send": 164123,
+      "clicks": 148901,
+      "opens": 163121
+    }
+  },
+  {
+    "date": "2019-12-03",
+    "metrics": {
+      "deliver": 179721,
+      "answers": 1489,
+      "traffic": 278126,
+      "send": 179819,
+      "clicks": 150918,
+      "opens": 178013
+    }
+  },
+  {
+    "date": "2019-12-04",
+    "metrics": {
+      "deliver": 180277,
+      "answers": 1609,
+      "traffic": 320145,
+      "send": 181276,
+      "clicks": 157860,
+      "opens": 178162
+    }
+  },
+  {
+    "date": "2019-12-05",
+    "metrics": {
+      "deliver": 185301,
+      "answers": 1867,
+      "traffic": 290089,
+      "send": 185675,
+      "clicks": 167864,
+      "opens": 180275
+    }
+  }
+]
